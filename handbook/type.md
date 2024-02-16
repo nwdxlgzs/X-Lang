@@ -8,7 +8,7 @@
 - `number` 数字(整数和浮点数)
 - `string` 字符串
 - `array` 数组
-- `table` 表(我终究还是爱着`Lua`语言啊)
+- `table` 表(我终究还是爱着[`Lua`](https://www.lua.org/)啊)
 - `function` 函数
 - `userdata` 用户数据
 - `mutex` 互斥量
